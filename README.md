@@ -13,4 +13,6 @@ https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database
 https://colab.research.google.com/
 * GPU T4
 # References 
-https://github.com/Jay4869/Deep-Learning
+https://github.com/Jay4869/Deep-Learning <br />
+https://github.com/husam1986/RAN_Chest_x_ray <br />
+https://www.kaggle.com/code/ankan1998/covid19-detection-using-tensorflow-from-chest-xray <br />
